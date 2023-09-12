@@ -2,6 +2,7 @@
 
 übersetzt:
 * about_python.md
+* about.md
   
 ---
 
